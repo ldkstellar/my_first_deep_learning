@@ -11,3 +11,4 @@ for i in range(len(squares)):
     print(squares[i],end=" ")
     
         
+        
