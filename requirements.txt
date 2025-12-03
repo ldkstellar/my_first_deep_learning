@@ -8,3 +8,4 @@ matplotlib
 sympy
 seaborn
 scipy
+black
